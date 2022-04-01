@@ -8,7 +8,7 @@ With Docker installed and running, in Terminal:
 git clone git@github.com:PXP200/pxp-wordpress_docker_setup.git
 ````
 
-Change the name of the direction
+Change the name of the directory
 ````
 mv pxp-wordpress_docker_setup [your project name]
 cd [your project name]
