@@ -24,7 +24,7 @@ Now you can either start a new theme in wp-content/themes or clone a theme into 
 Then:
 
 ````
-docker-compose up -d
+docker-compose up
 ````
 
 Then in your browser:
