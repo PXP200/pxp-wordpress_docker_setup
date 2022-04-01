@@ -6,8 +6,20 @@ With Docker installed and running, in Terminal:
 
 ````
 git clone git@github.com:PXP200/pxp-wordpress_docker_setup.git
-cd pxp-wordpress_docker_setup
 ````
+
+Change the name of the direction
+````
+mv pxp-wordpress_docker_setup [your project name]
+cd [your project name]
+````
+Remove git from root
+````
+rm -rf .git
+````
+
+Now you can either start a new theme in wp-content/themes or clone a theme into wp-content/themes.
+
 
 Then:
 
